@@ -1,0 +1,7 @@
+** lwm
+Parse /proc/meminfo and display information about memory usage
+
+** Usage
+Run =lwm --help= to get the help section. Additionally, if you
+just run =lwm=, it will show the default usage in bytes. For a
+for friendlier output, add the =-f= / =--friendly= option.
